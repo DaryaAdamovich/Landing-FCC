@@ -1,0 +1,52 @@
+body {
+    background-color: white;
+    text-align: center;
+    font-family: Courier, monospace;
+    font-size: 17px;
+}
+
+#title {
+    font-family: Georgia, serif;
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+#img-div {
+    background: #FFF8DC;
+    padding: 10px;
+    margin-left: 80px;
+    Margin-right: 80px;
+    border-radius: 5px;
+}
+
+#image {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    font-size: 15px;
+    font-family: Georgia, serif;
+}
+
+#main {
+    margin: 5px 20px;
+    padding: 20px;
+    font-family: Georgia, serif;
+    font-size: 22px;
+    text-align: justify;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+footer {
+    font-family: Georgia, serif;
+    font-size: 21px;
+}
